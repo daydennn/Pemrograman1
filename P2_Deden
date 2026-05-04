@@ -1,0 +1,15 @@
+package P2_Deden;
+import java.util.Scanner;
+
+public class Latihan {
+    public static void main(String args[]){
+        Scanner input = new Scanner(System.in); 
+        int Usia;
+
+        System.out.print("Input Nama:");
+        String nama = input.nextLine();
+
+        input.close();
+    }
+    
+}
